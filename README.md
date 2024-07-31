@@ -24,6 +24,7 @@ JUnit: A testing framework for implementing TDD.
 
 ### Initial Result
 This was the initial result of our project:
+
 <img src="LevLogo.jpg" width="400" alt="Initial Result">
 
 ### Agile Iteration Improvements
